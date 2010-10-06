@@ -1,0 +1,3 @@
+name = "Boxes Plugin Example"
+description = "Experimentation with the Boxes module."
+core = "6.x"
